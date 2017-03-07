@@ -6,3 +6,5 @@
  
  added a line from *branch* 'test'
  added a line with bold from **branch** 'test'
+ * Item 1
+ * Item 2
