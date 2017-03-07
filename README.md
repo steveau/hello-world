@@ -4,4 +4,5 @@
  added changes from linux  
  added a branch 'test'
  
- added a line from *branch* 'test'  
+ added a line from *branch* 'test'
+ added a line with bold from **branch** 'test'
